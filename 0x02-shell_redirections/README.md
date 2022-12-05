@@ -1,1 +1,1 @@
-is Directory contains files which contains files that describes the commands used for several Shell redirection of standard output to a file, How to get standard input from a file instead of the keyboard, e.t.c
+This Directory contains files which contains files that describes the commands used for several Shell redirection of standard output to a file, How to get standard input from a file instead of the keyboard, e.t.c
